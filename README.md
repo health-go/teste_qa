@@ -1,14 +1,19 @@
-# Teste Técnico QA Engineer
+# HealthGo 
+## Teste Técnico QA Engineer 
 
 Objetivo: Você é o novo QA Engineer da HealthGo. O código está "em produção" mas sem testes. Sua missão é criar a suíte de testes e garantir a qualidade.
-1.	Analise e Planeje: Leia o ARCHITECTURE.md e proponha uma estratégia de testes (Unitários, E2E, LGPD).
-2.	Mão na Massa:
+1.	Clone o Projeto Git: https://github.com/health-go/teste_qa.git
+2.	Analise e Planeje: Leia README.md, ARCHITECTURE.md e proponha uma estratégia de testes (Unitários, E2E, LGPD).
+3.	Mão na Massa:
 •	Configure um framework de testes (Jest/Cypress).
 •	Escreva testes unitários para lib/lgpd-utils.ts visando blindar a aplicação contra falhas de LGPD.
 •	Escreva uma validação para o fluxo de dados da Home.
-3.	Relatório de Bugs: Identifique falhas atuais no código e reporte-as formalmente.
+4.	Relatório de Bugs: Identifique falhas atuais no código e reporte-as formalmente.
+
+Prazo: Entre 2 e 3 dias.
 
 Boa sorte!
+
 
 ## Multiparametric Monitoring
 
